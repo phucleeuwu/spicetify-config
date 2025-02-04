@@ -22,7 +22,7 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
 4. Import `spotify-backup.json`.
 5. You're all set!
 
-## ⚠️My spicetify config only beautiful if you play a song and press `F` toggle fullscreen mode.⚠️
+## ⚠️My spicetify config only beautiful if you play a song and press `F` toggle fullscreen mode.
 
 ## Features & Usage
 
