@@ -1,4 +1,4 @@
-# Spicetify Backup
+# Spicetify Config
 
 This repository contains my personalized Spicetify backup configuration, featuring a minimalist and beautiful setup. It includes a fullscreen extension and support for lyrics display.
 ## Screenshot
@@ -6,7 +6,7 @@ This repository contains my personalized Spicetify backup configuration, featuri
 ![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.20.19.png)
 ![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.25.40.png)
 ![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.26.34.png)
-
+![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.32.18.png)
 
 ## Installation
 
