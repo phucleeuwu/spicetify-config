@@ -4,6 +4,10 @@ This repository contains my personalized Spicetify backup configuration, featuri
 ## Screenshot
 
 ![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.20.19.png)
+![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.25.40.png)
+![Spicetify Setup](https://raw.githubusercontent.com/phucleeuwu/spicetify-config/refs/heads/main/Screenshot%202025-02-04%20at%2014.26.34.png)
+
+
 ## Installation
 
 Install spicetify and marketplace command:
